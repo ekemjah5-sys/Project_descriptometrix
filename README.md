@@ -52,6 +52,14 @@ Alkyne Intermediary  : Nitro-Phenyl
 --> Ground State Bonding Energy Level     : -13.3016 eV
 ======================================================================
 ```
+## 📊 Data Availability
+
+The high-throughput computational database generated during this study—comprising structural configurations, parameterized matrix constants, and analytical quantum vectors for all 300,000 screened catalyst-alkyne interfaces—is permanently deposited in the Zenodo open-science repository. 
+
+* **Citable Repository Record Link:** [https://doi.org](https://doi.org)
+* **Digital Object Identifier:** `DOI: 10.5281/zenodo.21196337`
+
+To replicate specific data cluster distributions or verify the electronic phase boundary quadrants illustrated in our Results section, please pull the archived datasets directly from this record path.
 
 ---
 
